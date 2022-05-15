@@ -1,0 +1,8 @@
+@font-face {
+            font-family: "BeVietnamPro-ExtraBold";
+            src: url(../assets/fonts/BeVietnamPro-ExtraBold.tff);
+        }
+
+h1{
+    font-family: "BeVietnamPro-ExtraBold";
+}
